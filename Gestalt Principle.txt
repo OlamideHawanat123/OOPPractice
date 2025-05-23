@@ -1,0 +1,170 @@
+What are the Gestalt Principles?
+Gestalt Principles are principles/laws of human perception that describe 
+
+how humans group similar elements, recognize patterns and simplify complex 
+
+images when we perceive objects. Designers use the principles to organize 
+
+content on websites and other interfaces so it is aesthetically pleasing 
+
+and easy to understand.
+
+"Gestalt" is German for "unified whole". German psychologists Max Wertheimer, Kurt Koffka, and Wolfgang Kohler created the Gestalt Principles in the 1920s.
+
+They wanted to understand how people make sense of the confusing things they see and hear. They identified a set of laws that address the natural compulsion to find order in disorder. According to this, the mind "informs" what the eye sees by perceiving a series of individual elements as a whole.
+
+Graphic designers quickly embraced Gestalt Principles, using them to create eye-catching designs with well-placed elements.
+
+
+History of the Gestalt Principles
+Have you noticed how alternately flashing lights, such as neon signs or strands of lights, can look like a single light that is moving back and forth? This optical illusion is known as the phi phenomenon. Discovered by German psychologist Max Wertheimer, this illusion of movement became a basis for Gestalt psychology.1
+
+According to Gestalt psychology, this apparent movement happens because our minds fill in missing information. Motion pictures are based on this principle, with a series of still images appearing in rapid succession to form a seamless visual experience.
+
+Gestalt psychology focuses on how our minds organize and interpret visual data.2 It emphasizes that the whole of anything is greater than its parts.
+
+
+Law of Similarity
+The law of similarity states that similar things tend to appear grouped together. Grouping can occur in both auditory and visual stimuli.
+
+In the image at the top of this page, for example, you probably see two separate groupings of colored circles as rows rather than just a collection of dots.
+
+Law of Prägnanz
+The law of prägnanz is sometimes called the law of simplicity. This law holds that when you're presented with a set of ambiguous or complex objects, your brain will make them appear as simple as possible.3
+
+An example of this can be experienced with the Olympic logo. When you look at the logo, you see overlapping circles rather than an assortment of curved, connected lines.
+
+This Gestalt principle is also sometimes referred to as the law of good figure as the word prägnanz is a German term meaning "good figure."
+
+Law of Proximity
+According to the law of proximity, things that are close together seem more related than things that are spaced farther apart.4 Put another way, when objects are close to each other, we also tend to group them together.
+
+To see this Gestalt principle in action, look at the image at the top of the page. The circles on the left appear to be part of one grouping while those on the right appear to be part of another. This is due to the law of proximity.
+
+Law of Continuity
+The law of continuity holds that points that are connected by straight or curving lines are seen in a way that follows the smoothest path. In other words, elements in a line or curve seem more related to one another than those positioned randomly.
+
+Law of Closure
+According to the law of closure, we perceive elements as belonging to the same group if they seem to complete some entity.5 Our brains often ignore contradictory information and fill in gaps in information.
+
+In the image at the top of the page, you probably see the shape of a diamond. This is because, according to this Gestalt principle, your brain fills in the missing gaps in order to create a meaningful image.
+
+Law of Common Region
+The Gestalt law of common region says that when elements are located in the same closed region, we perceive them as belonging to the same group.6 What does this mean?
+
+Look at the last image at the top of the page. The circles are right next to each other so that the dot at the end of one circle is actually closer to the dot at the end of the neighboring circle. Despite how close those two dots are, we see the dots inside the circles as belonging together.
+
+
+
+Gestalt Principles
+Gestalt Principles are an essential part of visual design. There are more than ten overlapping principles. Here's a look at some of the more common ones.
+
+1. Emergence
+A set of blotches that resemble a Dalmatian.
+Instead of interpreting each blotch separately, we immediately identify a Dalmatian from a collection of oddly shaped black blotches. In other words, the Dalmatian emerges from the seemingly random scene.
+
+
+
+The principle of emergence is central to Gestalt thinking. We perceive the world without thinking too much about understanding every small thing around us. This ability to quickly make sense of our environment is essential for survival. Imagine if we spent hours analyzing our world to understand what was going on; wild animals would have devoured our ancestors in no time!
+
+The Unilever logo
+Unilever's logo is composed of several smaller shapes. But the letter "U" emerges from the combination of those smaller elements. Looking further, we see many smaller icons emerge from these abstract shapes.
+
+2. Closure (Reification)
+A square, circle and triangle with no color and dashed outlines.
+© Interaction Design Foundation, CC BY-SA 4.0
+
+We prefer complete shapes, so we automatically fill the gaps between elements to perceive a complete image. That's how we can see the whole first. You can use closure creatively to gain users' trust and admiration. Users will appreciate it when they see pleasing "wholes" made from cleverly placed elements like lines, dots, or shapes.
+
+
+Iconic logos like IBM's and the World Wildlife Fund's are great examples of closure. IBM's logo has blue lines in three stacks. WWF's logo has black shapes on a white background that we interpret as the shape of a panda.
+
+© IBM and WWF, Fair Use
+
+3. Common Region
+A grid of equally spaced small squares, with one set of the squares against a background color.
+© Interaction Design Foundation, CC BY-SA 4.0
+
+We perceive elements that are in the same closed region as one group. To apply this principle to your interfaces, group related objects together in a closed area to show they are separate from other groups.
+
+Screenshot of a Facebook post with the interactive elements highlighted.
+We can see the principle of common region applied in Facebook posts. Likes, comments and other interactions appear within the boundaries of one post and so stand apart from the other posts.
+
+© Meta, Fair Use
+
+4. Continuity or Continuation
+Two intersecting curved lines.
+© Interaction Design Foundation, CC BY-SA 4.0
+
+The continuity principle of Gestalt states that we group elements that seem to follow a continuous path in a particular direction. The human eye follows the paths, lines, and curves of a design and prefers to see a continuous flow of visual elements rather than separated objects. The human eye continues to follow the path even if an obstacle hides it or its flow is "broken" by interlinking or bisecting visual elements.
+
+Mia Cinelli explains how the principle of continuity applies to typography and highlights a widespread mistake designers make.
+
+
+5. Proximity
+Three small squares placed randomly on one side. Three more small squares places together on the other side.
+
+We group closer-together elements, separating them from those farther apart. When you group elements in your design, users will see it as one distinct entity on the screen.
+
+
+An example of proximity in design is the Girl Scouts logo, with its three faces clustered in profile (two green, one white).
+
+6. Multistability
+
+In the Necker cube optical illusion, you can interpret it as a three-dimensional cube with the "front" face either toward the lower left or the top right. A third interpretation is that intersecting lines create a diamond in the center. Often, when we interpret the image one way, we find it hard to see the other interpretations.
+
+
+When images are ambiguous and present two or more meaningful interpretations, we experience the sensation of switching between them. We cannot see the multiple versions simultaneously. This switching sensation is called multistability.
+
+
+"My wife and my mother-in-law" is a famous optical illusion that demonstrates multistability. Depending on where you focus, you might see either a young lady looking away or an elderly one looking sideways.
+
+
+7. Figure/Ground
+
+Rubin's Vase is a classic illustration that demonstrates the principles of figure/ground and multistability. If you consider a white background, you see a black vase in the foreground. And if you consider a black background color, you see two faces looking at each other.
+
+
+
+Figure/ground and multistability are sometimes confused to be the same. However, there is a slight difference. In most cases, background and foreground are stable, but in some cases, such as the optical illusion of Rubin's vase, it can contribute to multistability.
+
+Example of dark and light theme from Google's Material Design.
+When an interface's color theme changes from light to dark, the previously black text becomes white, and the white background becomes black. Even though the colors have reversed, we have no trouble recognizing the interface. We automatically interpret the foreground and background colors.
+
+8. Invariance
+Different versions of a shape—some rotated, some distorted.
+
+The Gestalt principle of invariance explains how we perceive basic shapes as identical despite various transformations. These transformations include rotation, movement, size alteration, stretching, different lighting conditions, and variations in parts. This principle is crucial for recognizing faces, for example. Thanks to invariance, we can recognize our friends and family members from afar or different angles or even when they make funny faces.
+
+
+
+9. Pragnanz
+Side-by-side comparison of the Olympic rings and a broken-down version of the logo.
+When we see the Olympic rings, we see five interlocked rings instead of "C" and lens shapes. The circles are simpler shapes to process than the C or lens shapes.
+
+
+Pragnanz describes the human tendency to simplify complexity. Our environment constantly bombards our senses with stimuli, while we have limited attention and processing capacity to handle all the complexity. Pragnanz helps us see order and regularity in a world of visual competition.
+
+
+10. Similarity
+A grid of small grey squares with one row of squares colored blue.
+
+When items, objects or elements share superficial characteristics, we perceive them as grouped. We can see the similarity principle in branding and design system guidelines.
+
+
+
+11. Symmetry and Order
+
+Which of these shapes would you group together? Chances are, you'll pick the matching square brackets instead of the mismatched curly and square bracket combination.
+
+
+
+Humans tend to see visual elements as grouped when they are arranged symmetrically. The natural world is filled with symmetry (or near symmetry), and our brains tend to favor symmetrical forms. Grid systems that evenly divide the space help designers implement symmetry and order in user interfaces.
+
+
+
+12. Common Fate
+A series of arrows pointing right, with two arrows in the middle pointing left.
+
+
+This principle refers to the human tendency to perceive visual elements moving in the same direction or in unison as grouped. Visuals need not be moving to convey motion. Cues such as arrows and the rotation angle can indicate the direction in which the elements are perceived to move.
